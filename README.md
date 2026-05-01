@@ -10,11 +10,13 @@ A high-performance banking platform interface crafted for speed and responsivene
 ## 📸 Design Preview
 A visual overview of the project design:
 
-![Landing Page Design](./public/design/Frontpage.png)
-![Landing Page Design](./public/design/Compare.png)
-![Landing Page Design](./public/design/Features.png)
-![Landing Page Design](./public/design/Support.png)
-![Landing Page Design](./public/design/Blog.png)
+<p align="center">
+  <img src="./public/design/Frontpage.png" alt="Frontpage Design" width="45%">
+  <img src="./public/design/Compare.png" alt="compare Design" width="45%">
+  <img src="./public/design/Features.png" alt="features Design" width="45%">
+  <img src="./public/design/Support.png" alt="support Design" width="45%">
+  <img src="./public/design/Blog.png" alt="Blog Design" width="45%">
+</p>
 
 ## 🚀 Key Features
 - **Cutting-Edge Stack**: Built with the latest Next.js 16.2 (App Router) and React 19.
